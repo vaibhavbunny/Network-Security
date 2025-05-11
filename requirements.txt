@@ -1,3 +1,6 @@
 python-dotenv
 pandas
 numpy
+pymongo
+certifi
+## -e .      ## this will go ahead and trigger the setup.py file called at the end of the project when the project is completed.
