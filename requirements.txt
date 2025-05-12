@@ -4,4 +4,5 @@ numpy
 pymongo
 certifi
 pymongo[srv]
+scikit-learn
 ## -e .      ## this will go ahead and trigger the setup.py file called at the end of the project when the project is completed.
